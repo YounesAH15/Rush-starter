@@ -1,0 +1,9 @@
+{
+  "node": "16.16.0",
+  "packageManager": "pnpm",
+  "packageManagerVersion": "6.7.1",
+  "rushJsonFolder": "C:\\Users\\YounesHarrat\\Desktop\\rush test folder\\Rush-starter",
+  "npmrcHash": "ee68e6b827bdf7ec9525260572c6fe6f94909053",
+  "storePath": "C:\\Users\\YounesHarrat\\Desktop\\rush test folder\\Rush-starter\\common\\temp/pnpm-store",
+  "workspaces": true
+}
