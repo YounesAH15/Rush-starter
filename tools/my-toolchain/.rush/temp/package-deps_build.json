@@ -1,0 +1,19 @@
+{
+  "files": {
+    "tools/my-toolchain/.rush/temp/shrinkwrap-deps.json": "d8b9bead886d10d51e5c5acb1ea6ab47d7a6dafe",
+    "tools/my-toolchain/bin/my-build.js": "783bb806fce1ab31b007ca63c72758c7987436e8",
+    "tools/my-toolchain/bin/my-bulk-command.js": "9fb46f45143d6b3425b453320292fbbd9b0de2ab",
+    "tools/my-toolchain/includes/tsconfig-web.json": "02dcbf4f7cb6bc37811f58b75849a7d20287d44d",
+    "tools/my-toolchain/package.json": "37fe47314cd09fb6f5b896c6ab162abd6df0a4be",
+    "tools/my-toolchain/src/start.ts": "699384f138bfeac676846cc46608bc8552df6c3a",
+    "tools/my-toolchain/src/startCommand.ts": "23448ca01a916193920ffd765d656fc54331aeab",
+    "tools/my-toolchain/tsconfig.json": "52f07f22b671ac249b0cde985001020ba516062a",
+    "tools/my-toolchain/lib/start.d.ts": "b7988016daa5bf0b3d4fcdccaba52780a9983d9d",
+    "tools/my-toolchain/lib/start.js": "0413608c029157ad09a779cffa8d4a2f192e97df",
+    "tools/my-toolchain/lib/start.js.map": "b4fb9c163b769b80d12f96c36d795783e8d59285",
+    "tools/my-toolchain/lib/startCommand.d.ts": "021de2b47ef1789740bb3095ba298cd55a6f0879",
+    "tools/my-toolchain/lib/startCommand.js": "ffb72ba389216e5b013c08fd1d21b86744733e75",
+    "tools/my-toolchain/lib/startCommand.js.map": "263cc9bbe51c6694a8ad43240584ce74948a2e0e"
+  },
+  "arguments": "rimraf ./lib/ && tsc "
+}
